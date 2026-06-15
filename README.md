@@ -12,12 +12,12 @@
   [![React Navigation](https://img.shields.io/badge/React_Navigation-8A2BE2?style=for-the-badge&logo=react-navigation&logoColor=white)](https://reactnavigation.org/)
 
   <p align="center">
-    <a href="#-features">Features</a> •
-    <a href="#-quick-start">Quick Start</a> •
-    <a href="#-screenshots">Screenshots</a> •
-    <a href="#-tech-stack">Tech Stack</a> •
-    <a href="#-project-structure">Project Structure</a> •
-    <a href="#-contact--support">Contact</a>
+    <a href="#features">Features</a> •
+    <a href="#quick-start">Quick Start</a> •
+    <a href="#screenshots">Screenshots</a> •
+    <a href="#tech-stack">Tech Stack</a> •
+    <a href="#project-structure">Project Structure</a> •
+    <a href="#contact--support">Contact</a>
   </p>
 
 </div>
