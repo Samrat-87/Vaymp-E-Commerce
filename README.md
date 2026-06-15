@@ -91,7 +91,7 @@ Get a glimpse of the sleek and intuitive user interface designed for an effortle
     <tr>
       <td><img src="screenshots/scr1.jpeg" alt="Home Screen" width="250"/></td>
       <td><img src="screenshots/scr2.jpeg" alt="Filtering" width="250"/></td>
-      <td><img src="screenshots/scr3.jpeg" alt="Shopping Bag" width="250"/></td>
+      <td><img src="screenshots/scr3.jpeg" alt="Search Bar" width="250"/></td>
     </tr>
     <tr>
       <td align="center"><b>Product View</b></td>
@@ -99,7 +99,7 @@ Get a glimpse of the sleek and intuitive user interface designed for an effortle
       <td></td>
     </tr>
     <tr>
-      <td><img src="screenshots/scr4.jpeg" alt="Product View" width="250"/></td>
+      <td><img src="screenshots/scr4.jpeg" alt="Shopping Bag" width="250"/></td>
       <td><img src="screenshots/scr5.jpeg" alt="Checkout" width="250"/></td>
       <td></td>
     </tr>
