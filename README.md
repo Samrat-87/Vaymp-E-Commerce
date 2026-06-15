@@ -86,7 +86,7 @@ Get a glimpse of the sleek and intuitive user interface designed for an effortle
     <tr>
       <td align="center"><b>Home / Catalog</b></td>
       <td align="center"><b>Filtering</b></td>
-      <td align="center"><b>Shopping Bag</b></td>
+      <td align="center"><b>Search Bar</b></td>
     </tr>
     <tr>
       <td><img src="screenshots/scr1.jpeg" alt="Home Screen" width="250"/></td>
@@ -94,7 +94,7 @@ Get a glimpse of the sleek and intuitive user interface designed for an effortle
       <td><img src="screenshots/scr3.jpeg" alt="Search Bar" width="250"/></td>
     </tr>
     <tr>
-      <td align="center"><b>Product View</b></td>
+      <td align="center"><b>Shopping Bag</b></td>
       <td align="center"><b>Checkout</b></td>
       <td></td>
     </tr>
