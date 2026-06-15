@@ -12,6 +12,7 @@
   [![React Navigation](https://img.shields.io/badge/React_Navigation-8A2BE2?style=for-the-badge&logo=react-navigation&logoColor=white)](https://reactnavigation.org/)
 
   <p align="center">
+    <a href="#download">Download</a> •
     <a href="#features">Features</a> •
     <a href="#quick-start">Quick Start</a> •
     <a href="#screenshots">Screenshots</a> •
@@ -20,6 +21,22 @@
     <a href="#contact">Contact</a>
   </p>
 
+</div>
+
+---
+
+<a id="download"></a>
+## 📥 Download the App
+
+Experience the app instantly! Download the latest Android APK release directly to your device.
+
+<div align="center">
+  <br/>
+  <a href="https://github.com/Samrat-87/Vaymp-E-Commerce/releases/download/android/Vyamp.e-commerce.apk">
+    <img src="https://img.shields.io/badge/Download_APK_for_Android-2EA44F?style=for-the-badge&logo=android&logoColor=white&labelColor=1F2328" alt="Download APK" />
+  </a>
+  <br/>
+  <br/>
 </div>
 
 ---
