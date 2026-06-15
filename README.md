@@ -117,11 +117,13 @@ Get a glimpse of the sleek and intuitive user interface designed for an effortle
     <tr>
       <td align="center"><b>Product View</b></td>
       <td align="center"><b>Checkout</b></td>
+      <td align="center"><b>Empty Bag</b></td>
       <td></td>
     </tr>
     <tr>
       <td><img src="screenshots/scr4.jpeg" alt="Product View" width="250"/></td>
       <td><img src="screenshots/scr5.jpeg" alt="Checkout" width="250"/></td>
+      <td><img src="screenshots/scr6.jpeg" alt="Checkout" width="250"/></td>
       <td></td>
     </tr>
   </table>
