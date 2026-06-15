@@ -17,13 +17,14 @@
     <a href="#screenshots">Screenshots</a> •
     <a href="#tech-stack">Tech Stack</a> •
     <a href="#project-structure">Project Structure</a> •
-    <a href="#contact--support">Contact</a>
+    <a href="#contact">Contact</a>
   </p>
 
 </div>
 
 ---
 
+<a id="features"></a>
 ## ✨ Features
 
 Deliver a premium shopping experience right to your users' hands. This app is designed for speed, usability, and modern aesthetics.
@@ -37,6 +38,7 @@ Deliver a premium shopping experience right to your users' hands. This app is de
 
 ---
 
+<a id="quick-start"></a>
 ## 🚀 Quick Start
 
 Get the app running locally in minutes.
@@ -78,6 +80,7 @@ After running `npm start`, you'll see a QR code in your terminal. You can:
 
 ---
 
+<a id="screenshots"></a>
 ## 📸 Screenshots
 
 Get a glimpse of the sleek and intuitive user interface designed for an effortless shopping experience.
@@ -87,22 +90,21 @@ Get a glimpse of the sleek and intuitive user interface designed for an effortle
     <tr>
       <td align="center"><b>Home / Catalog</b></td>
       <td align="center"><b>Filtering</b></td>
-      <td align="center"><b>Search Bar</b></td>
+      <td align="center"><b>Shopping Bag</b></td>
     </tr>
     <tr>
       <td><img src="screenshots/scr1.jpeg" alt="Home Screen" width="250"/></td>
       <td><img src="screenshots/scr2.jpeg" alt="Filtering" width="250"/></td>
-      <td><img src="screenshots/scr3.jpeg" alt="Search Bar" width="250"/></td>
+      <td><img src="screenshots/scr3.jpeg" alt="Shopping Bag" width="250"/></td>
     </tr>
     <tr>
-      <td align="center"><b>Shopping Bag</b></td>
+      <td align="center"><b>Product View</b></td>
       <td align="center"><b>Checkout</b></td>
-      <td align="center"><b>Empty Bag</b></td>
+      <td></td>
     </tr>
     <tr>
-      <td><img src="screenshots/scr4.jpeg" alt="Shopping Bag" width="250"/></td>
+      <td><img src="screenshots/scr4.jpeg" alt="Product View" width="250"/></td>
       <td><img src="screenshots/scr5.jpeg" alt="Checkout" width="250"/></td>
-      <td><img src="screenshots/scr6.jpeg" alt="Checkout" width="250"/></td>
       <td></td>
     </tr>
   </table>
@@ -110,6 +112,7 @@ Get a glimpse of the sleek and intuitive user interface designed for an effortle
 
 ---
 
+<a id="tech-stack"></a>
 ## 🛠️ Tech Stack
 
 This project is built using industry-standard tools to ensure scalability and maintainability.
@@ -124,6 +127,7 @@ This project is built using industry-standard tools to ensure scalability and ma
 
 ---
 
+<a id="project-structure"></a>
 ## 📂 Project Structure
 
 ```text
@@ -136,6 +140,7 @@ src/
 
 ---
 
+<a id="contact"></a>
 ## 🤝 Contact & Support
 
 Designed and developed with ❤️. If you have any questions, business inquiries, or want to collaborate, feel free to reach out!
