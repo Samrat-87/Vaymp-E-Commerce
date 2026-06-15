@@ -33,7 +33,7 @@ Experience the app instantly! Download the latest Android APK release directly t
 <div align="center">
   <br/>
   <a href="https://github.com/Samrat-87/Vaymp-E-Commerce/releases/download/android/Vyamp.e-commerce.apk">
-    <img src="https://img.shields.io/badge/Download_APK_for_Android-2EA44F?style=for-the-badge&logo=android&logoColor=white&labelColor=1F2328" alt="Download APK" />
+    <img src="assets/live-download.svg" alt="Download APK" />
   </a>
   <br/>
   <br/>
