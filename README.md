@@ -12,11 +12,12 @@
   [![React Navigation](https://img.shields.io/badge/React_Navigation-8A2BE2?style=for-the-badge&logo=react-navigation&logoColor=white)](https://reactnavigation.org/)
 
   <p align="center">
-    <a href="#sparkles-features">Features</a> •
-    <a href="#rocket-quick-start">Quick Start</a> •
-    <a href="#hammer_and_wrench-tech-stack">Tech Stack</a> •
-    <a href="#camera-screenshots">Screenshots</a> •
-    <a href="#handshake-contact">Contact</a>
+    <a href="#-features">Features</a> •
+    <a href="#-quick-start">Quick Start</a> •
+    <a href="#-screenshots">Screenshots</a> •
+    <a href="#-tech-stack">Tech Stack</a> •
+    <a href="#-project-structure">Project Structure</a> •
+    <a href="#-contact--support">Contact</a>
   </p>
 
 </div>
@@ -96,11 +97,14 @@ Get a glimpse of the sleek and intuitive user interface designed for an effortle
     <tr>
       <td align="center"><b>Shopping Bag</b></td>
       <td align="center"><b>Checkout</b></td>
+      <td align="center"><b>Empty Bag</b></td>
+
       <td></td>
     </tr>
     <tr>
       <td><img src="screenshots/scr4.jpeg" alt="Shopping Bag" width="250"/></td>
       <td><img src="screenshots/scr5.jpeg" alt="Checkout" width="250"/></td>
+      <td><img src="screenshots/scr6.jpeg" alt="Checkout" width="250"/></td>
       <td></td>
     </tr>
   </table>
