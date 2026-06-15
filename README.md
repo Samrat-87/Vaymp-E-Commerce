@@ -77,6 +77,37 @@ After running `npm start`, you'll see a QR code in your terminal. You can:
 
 ---
 
+## 📸 Screenshots
+
+Get a glimpse of the sleek and intuitive user interface designed for an effortless shopping experience.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Home / Catalog</b></td>
+      <td align="center"><b>Filtering</b></td>
+      <td align="center"><b>Shopping Bag</b></td>
+    </tr>
+    <tr>
+      <td><img src="screenshots/scr1.jpeg" alt="Home Screen" width="250"/></td>
+      <td><img src="screenshots/scr2.jpeg" alt="Filtering" width="250"/></td>
+      <td><img src="screenshots/scr3.jpeg" alt="Shopping Bag" width="250"/></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Product View</b></td>
+      <td align="center"><b>Checkout</b></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><img src="screenshots/scr4.jpeg" alt="Product View" width="250"/></td>
+      <td><img src="screenshots/scr5.jpeg" alt="Checkout" width="250"/></td>
+      <td></td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 This project is built using industry-standard tools to ensure scalability and maintainability.
