@@ -98,8 +98,6 @@ Get a glimpse of the sleek and intuitive user interface designed for an effortle
       <td align="center"><b>Shopping Bag</b></td>
       <td align="center"><b>Checkout</b></td>
       <td align="center"><b>Empty Bag</b></td>
-
-      <td></td>
     </tr>
     <tr>
       <td><img src="screenshots/scr4.jpeg" alt="Shopping Bag" width="250"/></td>
